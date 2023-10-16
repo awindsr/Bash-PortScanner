@@ -2,15 +2,6 @@
 
 A simple Bash script for scanning open ports on a remote host.
 
-## Table of Contents
-
-- [Description](#description)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Description
 
 This Bash script allows you to scan for open ports on a remote host using simple command-line arguments. It's a lightweight and straightforward tool for network administrators and security enthusiasts.
