@@ -28,11 +28,11 @@ To use this script, you need:
 
 1. Clone this repository to your local machine:
  ```
-   git clone https://github.com/awindsr/Bash-PortScanner.git
+ git clone https://github.com/awindsr/Bash-PortScanner.git
 ```
 2. Change directory to the project folder:
 3. Run the script with the desired options:
-   ```
-   ./port_scanner.sh -i <IP_ADDRESS> -p <PORT_RANGE>
+```
+./port_scanner.sh -i <IP_ADDRESS> -p <PORT_RANGE>
 
-   ```
+```
